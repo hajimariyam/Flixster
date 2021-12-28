@@ -1,6 +1,6 @@
 # FLIXSTER
 
-An Android mobile app—browse movies currently playing in theaters, view the synopsis and ratings, and play a Youtube trailer.
+An Android mobile app—browse movies currently playing in theaters (via TheMovieDatabase API), view the synopsis and ratings, and play a Youtube trailer.
 
 ## User Stories
 
