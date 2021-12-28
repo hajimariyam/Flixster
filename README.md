@@ -1,11 +1,11 @@
 # FLIXSTER
 
-An Android mobile app—browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
+An Android mobile app—browse movies currently playing in theaters, view the synopsis and ratings, and play a Youtube trailer.
 
 ## User Stories
 
 ### REQUIRED 
-- [x] User can view a list of movies (title, poster image, and overview) currently playing in theaters from the Movie Database API.
+- [x] User can view a list of movies (title, poster image, and overview) currently playing in theaters from [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 - [x] Expose details of movie (ratings using RatingBar, popularity, and synopsis) in a separate activity.
 - [x] Allow video posts to be played in full-screen using the YouTubePlayerView.
 
