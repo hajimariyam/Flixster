@@ -2,6 +2,9 @@
 
 An Android mobile app—browse movies currently playing in theaters (via TheMovieDatabase API), view the synopsis and ratings, and play a Youtube trailer.
 
+### App Walkthough GIF
+<img src="Flix_Part2.gif" width=30%><br>
+
 ## User Stories
 
 ### REQUIRED 
@@ -23,9 +26,6 @@ An Android mobile app—browse movies currently playing in theaters (via TheMovi
 - [ ] Add a play icon overlay to popular movies to indicate that the movie can be played.
 - [ ] Apply data binding for views to help remove boilerplate code.
 - [ ] Add a rounded corners for the images using the Glide transformations.
-
-### App Walkthough GIF
-<img src="Flix_Part2.gif" width=250><br>
 
 ## Open-source libraries used
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
